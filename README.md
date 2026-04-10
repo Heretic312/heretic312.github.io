@@ -1,2 +1,2 @@
 # heretic312.github.io
-Autonomous AI powered penetration testing platform (fully local).
+Autonomous AI-Powered Red Team Platform (Fully Local)
