@@ -1,0 +1,33 @@
+body {
+    background: black;
+    color: #00ffcc;
+    font-family: monospace;
+}
+
+h1 {
+    text-align: center;
+    color: #ff00ff;
+    text-shadow: 0 0 10px #ff00ff;
+}
+
+.terminal {
+    background: rgba(0,0,0,0.9);
+    padding: 20px;
+    height: 200px;
+    overflow-y: auto;
+    border: 1px solid #00ffcc;
+}
+
+button {
+    background: black;
+    color: #00ffcc;
+    border: 1px solid #00ffcc;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.panel {
+    border: 1px solid #00ffcc;
+    margin: 10px;
+    padding: 10px;
+}
