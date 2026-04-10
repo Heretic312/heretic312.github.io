@@ -1,0 +1,5 @@
+{
+  "summary": "Target exposes critical services with known vulnerabilities.",
+  "risk": 85,
+  "confidence": 90
+}
