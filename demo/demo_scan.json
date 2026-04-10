@@ -1,0 +1,6 @@
+{
+  "target": "demo.target.local",
+  "open_ports": [22, 80, 445],
+  "services": ["SSH", "Apache", "SMB"],
+  "notes": "Outdated Apache detected"
+}
